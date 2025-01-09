@@ -64,5 +64,5 @@ Consider adding the following enhancements:
 ---
 
 ## Author
-**[Your Name]**  
-Contact: Blogger@NYC.com
+Pouriya Alikhani
+Contact: pouriya.alikhani@mail.mcgill.ca
