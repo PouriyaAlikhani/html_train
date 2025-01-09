@@ -64,5 +64,6 @@ Consider adding the following enhancements:
 ---
 
 ## Author
-Pouriya Alikhani
+** Pouriya Alikhani **
+
 Contact: pouriya.alikhani@mail.mcgill.ca
